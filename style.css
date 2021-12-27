@@ -189,6 +189,7 @@ ul { list-style : none; }
 		padding: 3px 0 7px 5px;
 		font: bold 11pt Arial, Helvetica, sans-serif;
 		margin: -1px 0 10px 0;
+		border-radius: 10px;
 	}
 
 	.left_side {
